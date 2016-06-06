@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Gra")]
+[assembly: AssemblyTitle("008")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Gra")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("eXPerience")]
+[assembly: AssemblyProduct("008")]
+[assembly: AssemblyCopyright("Copyright © eXPerience 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c69c6391-a30e-4a79-84e0-634c5156a164")]
+[assembly: Guid("285727f7-6c66-42b3-aaa6-f36546e5067a")]
 
 // Version information for an assembly consists of the following four values:
 //

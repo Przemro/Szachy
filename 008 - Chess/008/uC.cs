@@ -1,20 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
+using System.Data;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Gra
+namespace _008
 {
-    public partial class Form1 : Form
+    public partial class uC : UserControl
     {
-        public Form1()
+        public int pozX;
+        public int pozY;
+        public uC()
         {
             InitializeComponent();
         }
+
+        private void uC_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
