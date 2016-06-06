@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace _008
 {
-    public partial class Form1 : Form
+    public partial class Szachy : Form
     {
         bool move_QB = true;
         bool move_RB = true;
@@ -20,7 +20,7 @@ namespace _008
         uC[,] bt;
         int I, J;
         //private EventHandler bt_Click;
-        public Form1()
+        public Szachy()
         {
             InitializeComponent();
         }
@@ -585,6 +585,17 @@ namespace _008
             validate();
             drawing();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
         void uC_Click(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
